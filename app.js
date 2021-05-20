@@ -56,7 +56,7 @@ function calculateAgeFn(year, month, day) {
   // if (checkParamsFn(year, month, day) && checkOverEighteenFn(year, month, day)  && bdate >0 ){
   // return (Math.floor(age))
   // }
-  return "error: repet your birthday "
+  else return "error: repet your birthday "
 }
 
  
